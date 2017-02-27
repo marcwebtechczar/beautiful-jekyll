@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Test Post
-subtitle: Excerpt from Soulshaping by Jeff Brown
+subtitle: Test post meta data
 bigimg: /img/path.jpg
 published: true
 ---
